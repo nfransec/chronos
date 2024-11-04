@@ -25,11 +25,11 @@ Amplify.configure(outputs);
 const client = generateClient<Schema>();
 
 const kernelTeam = [
-  { id: 1, name: 'Nirmal Francis', avatar: '/placeholder.svg?height=32&width=32' },
-  { id: 2, name: 'Vikram DG', avatar: '/placeholder.svg?height=32&width=32' },
-  { id: 3, name: 'Premkumar R', avatar: '/placeholder.svg?height=32&width=32' },
-  { id: 4, name: 'Raj Meghraj', avatar: '/placeholder.svg?height=32&width=32' },
-  { id: 5, name: 'Siddhesh Parab', avatar: '/placeholder.svg?height=32&width=32' },
+  { id: 1, name: 'Employee 1', avatar: '/placeholder.svg?height=32&width=32' },
+  { id: 2, name: 'Employee 2', avatar: '/placeholder.svg?height=32&width=32' },
+  { id: 3, name: 'Employee 3', avatar: '/placeholder.svg?height=32&width=32' },
+  { id: 4, name: 'Employee 4', avatar: '/placeholder.svg?height=32&width=32' },
+  { id: 5, name: 'Employee 5', avatar: '/placeholder.svg?height=32&width=32' },
 ]
 
 const shifts = [
